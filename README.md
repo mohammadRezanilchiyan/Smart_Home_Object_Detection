@@ -15,11 +15,11 @@ What the proposal purports to do :
 • Structure work package
 
 
-       - Item 1Why it solves a problem and meets a need.
+       - Item 1 Why it solves a problem and meets a need.
         
-       - Item 2What main features and elements make it truly stand out?
+       - Item 2 What main features and elements make it truly stand out?
         
-       - Item 3Why this will benefit the recipients and represent an excellent solution.
+       - Item 3 Why this will benefit the recipients and represent an excellent solution.
 
 
 
