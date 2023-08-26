@@ -12,6 +12,7 @@ What the proposal purports to do :
 • Partly-Literature Review
 
 • Structure work package
+
         -Why it solves a problem and meets a need.
         
         -What main features and elements make it truly stand out?
