@@ -1,11 +1,9 @@
 # Smart_Home_Object_Detection
 Write<b> By Mohammad Reza Nilchiyan</b>
 
-<font color="blue">Reza</font>
-
 This is for security reasons 
 
-The Future Of Design
+## The Future Of Design
 What the proposal purports to do :
 
 • Define the Aims 
@@ -17,11 +15,11 @@ What the proposal purports to do :
 • Structure work package
 
 
-        -Why it solves a problem and meets a need.
+       - Item 1Why it solves a problem and meets a need.
         
-        -What main features and elements make it truly stand out?
+       - Item 2What main features and elements make it truly stand out?
         
-        -Why this will benefit the recipients and represent an excellent solution.
+       - Item 3Why this will benefit the recipients and represent an excellent solution.
 
 
 
