@@ -2,7 +2,7 @@
 Write<b> By Mohammad Reza Nilchiyan</b>
 
 This is for security reasons in smart-home
-![Image](AI.jpg)
+![Image](AI.png)
 
 ## The Future Of Design
 What the proposal purports to do :
