@@ -50,6 +50,8 @@ Implementing new smart home technology endows homeowners with enhanced security,
 
 The focus is on deep learning object detection using TensorFlow. 
 
+![Image](TF.png)
+
 ## The following key aspects:
 
 ### Projects Overview:
@@ -73,5 +75,5 @@ Please note that while the video provides an overview of these topics, the detai
     -  2 Export the Model: Once the model is trained, export it in a format suitable for deployment. TensorFlow provides tools to convert trained models into formats that can be used for inference.
     -  3 Inference on New Data: Use the exported model to perform object detection on new images or video frames. This is where the model predicts the presence and location of objects in the given input.
     -  4 Integration: Depending on your use case, you might integrate the model with different applications. This could involve deploying the model on a server, embedding it in an application, or running it on edge devices.
-    -  5 Real-Time Object Detection: As mentioned in the video, you can use the trained model to perform real-time object detection using input from sources like webcams.
+    -  5 Real-Time Object Detection: the trained model performs real-time object detection using input from sources like webcams.
 
