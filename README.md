@@ -12,9 +12,11 @@ What the proposal purports to do :
 • Partly-Literature Review
 
 • Structure work package
-   <li>Why it solves a problem and meets a need.</li>
-   <li>What main features and elements make it truly stand out?</li>
-   <li>Why this will benefit the recipients and represent an excellent solution.</li>
+        <li>Why it solves a problem and meets a need.</li>
+        
+        <li>What main features and elements make it truly stand out?</li>
+        
+        <li>Why this will benefit the recipients and represent an excellent solution.</li>
 
 # How to deploy Model
 Use 
