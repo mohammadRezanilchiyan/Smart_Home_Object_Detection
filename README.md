@@ -19,11 +19,11 @@ What the proposal purports to do :
 • Structure work package
 
 
-       - Item 1 Why it solves a problem and meets a need.
+       -  1 Why it solves a problem and meets a need.
         
-       - Item 2 What main features and elements make it truly stand out?
+       -  2 What main features and elements make it truly stand out?
         
-       - Item 3 Why this will benefit the recipients and represent an excellent solution.
+       -  3 Why this will benefit the recipients and represent an excellent solution.
 
 
 
@@ -60,18 +60,18 @@ The video demonstrates the creation of four different object detection models us
 
 ### Learning Objectives:
 The video aims to teach viewers the following skills:
-- Item 1 TensorFlow Object Detection on a Local Machine: This involves setting up TensorFlow for object detection tasks on your local computer.
-- Item 2 Image Collection and Labeling: The video explains how to gather and label images for object detection using a tool called LabelImg.
-- Item 3 Training Deep Learning Models: The tutorial covers the process of training deep learning object detection models using Python and the TensorFlow Object Detection library.
-- Item 4 Real-time Object Detection: 
+-  1 TensorFlow Object Detection on a Local Machine: This involves setting up TensorFlow for object detection tasks on your local computer.
+-  2 Image Collection and Labeling: The video explains how to gather and label images for object detection using a tool called LabelImg.
+-  3 Training Deep Learning Models: The tutorial covers the process of training deep learning object detection models using Python and the TensorFlow Object Detection library.
+-  4 Real-time Object Detection: 
 The video demonstrates how to use the trained models to perform real-time object detection using a webcam and static images.
 
 Please note that while the video provides an overview of these topics, the detailed steps and code are likely covered in the video itself. If you're interested in deploying models, particularly TensorFlow Object Detection models, you can follow these general steps:
 
 ## Deploying a Model:
-- Item 1 Train the Model: Use the labeled dataset to train the object detection model using TensorFlow. This involves creating and configuring the model architecture, feeding in the training data, and adjusting parameters for optimal performance.
-- Item 2 Export the Model: Once the model is trained, export it in a format suitable for deployment. TensorFlow provides tools to convert trained models into formats that can be used for inference.
-- Item 3 Inference on New Data: Use the exported model to perform object detection on new images or video frames. This is where the model predicts the presence and location of objects in the given input.
-- Item 4 Integration: Depending on your use case, you might integrate the model with different applications. This could involve deploying the model on a server, embedding it in an application, or running it on edge devices.
-- Item 5 Real-Time Object Detection: As mentioned in the video, you can use the trained model to perform real-time object detection using input from sources like webcams.
+-  1 Train the Model: Use the labeled dataset to train the object detection model using TensorFlow. This involves creating and configuring the model architecture, feeding in the training data, and adjusting parameters for optimal performance.
+-  2 Export the Model: Once the model is trained, export it in a format suitable for deployment. TensorFlow provides tools to convert trained models into formats that can be used for inference.
+-  3 Inference on New Data: Use the exported model to perform object detection on new images or video frames. This is where the model predicts the presence and location of objects in the given input.
+-  4 Integration: Depending on your use case, you might integrate the model with different applications. This could involve deploying the model on a server, embedding it in an application, or running it on edge devices.
+-  5 Real-Time Object Detection: As mentioned in the video, you can use the trained model to perform real-time object detection using input from sources like webcams.
 
