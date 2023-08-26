@@ -1,6 +1,5 @@
 # Smart_Home_Object_Detection
 Write<b> By Mohammad Reza Nilchiyan</b>
-<font color="blue">By Mohammad Reza Nilchiyan</font>
 
 This is for security reasons 
 
