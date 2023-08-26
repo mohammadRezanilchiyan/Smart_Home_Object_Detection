@@ -1,7 +1,8 @@
 # Smart_Home_Object_Detection
 Write<b> By Mohammad Reza Nilchiyan</b>
 
-This is for security reasons 
+This is for security reasons in smart-home
+![Image](AI.jpg)
 
 ## The Future Of Design
 What the proposal purports to do :
